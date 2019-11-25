@@ -83,13 +83,13 @@ h1{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     text-align: center;
 }
-h5 {
+/* h5 {
     display: block;
   
     margin-block-start: 1.67em;
     margin-block-end: 1.67em;
     margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin-inline-end: 0px; */
 
 @media screen and (max-width: 600px) {
     .url {
