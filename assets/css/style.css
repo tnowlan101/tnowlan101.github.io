@@ -4,9 +4,7 @@ margin: 0 auto;
 *, ::after, ::before {
     box-sizing: border-box;}
 
-img { 
-    float: left;
-    
+
 }
 .navhead{
     background-color: #ffffff;
@@ -76,9 +74,23 @@ h1{
     background-color: #666666;
     bottom: 0;
     margin: 0 auto;
-    font-size: 12px;
     
 }
+.portfoliocover{
+    color: #FFFFFF;
+    background-color: #4aaaa5;
+    line-height: 2em;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h5 {
+    display: block;
+  
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
 @media screen and (max-width: 600px) {
     .url {
       margin:20px ;
