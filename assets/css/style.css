@@ -51,11 +51,14 @@ nav li, nav ul{
     line-height: 1.5em;
     color: #ffffff;
   
+}
+p {
+    font-size: 18px;
+    line-height: 2;
+}
+    
     
 
-    
-    
-}
 h1{
     border-bottom: 2px solid #cccccc;
     color: #4aaaa5;
@@ -67,3 +70,16 @@ h1{
 }
 
 
+.navfooter{
+    border-top:6px solid #4aaaa5;
+    color: #cccccc;
+    background-color: #666666;
+    bottom: 0;
+    margin: 0 auto;
+    font-size: 12px;
+    
+}
+@media screen and (max-width: 600px) {
+    .url {
+      margin:20px ;
+    }
